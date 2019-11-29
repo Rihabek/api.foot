@@ -1,0 +1,24 @@
+{
+  "name": "api.foot",
+  "version": "1.0.0",
+  "description": "api sur la ligue 1 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rihabek/api.foot.git"
+  },
+  "author": "belkhadiri rihab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rihabek/api.foot/issues"
+  },
+  "homepage": "https://github.com/Rihabek/api.foot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
